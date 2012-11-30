@@ -30,9 +30,11 @@ unsigned ListGraph::degree(NodeID u) const{
 }
 
 unsigned ListGraph::size() const{
+	return edgeList.size();
 }
 
 unsigned ListGraph::numEdges() const{
+	return num_edges;
 }
 
 
