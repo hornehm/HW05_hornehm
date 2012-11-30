@@ -109,6 +109,7 @@
     <ClCompile Include="..\src\MatrixGraph.cpp" />
     <ClCompile Include="..\src\StarbucksMap.cpp" />
     <ClCompile Include="..\src\Tester.cpp" />
+    <ClCompile Include="ListGraph.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\include\Graph.h" />
